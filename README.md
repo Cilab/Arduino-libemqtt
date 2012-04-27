@@ -1,7 +1,7 @@
 Arduino-libemqtt
 ================
 
-Arduino client for libemqtt
+libemqtt client for Arduino
 
 # Arduino-libemqtt
 
